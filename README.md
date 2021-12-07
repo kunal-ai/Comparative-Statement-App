@@ -1,0 +1,2 @@
+# Comparative-Statement-App
+Its an application made to create, manage Comparative Statements and maintaining them in the company database, which can be utilized for business processes.
